@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/bryan-costa/LIRI_Bot#readme",
   "dependencies": {
-    "axios": "^0.18.0"
-  }
+    "axios": "^0.18.0",
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {}
 }
